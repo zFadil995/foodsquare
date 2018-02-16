@@ -1,2 +1,2 @@
 # foodsquare
-Web Engineering project.
+Web Engineering Project.
